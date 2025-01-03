@@ -6,11 +6,7 @@ This project analyzes Premier League match data to uncover insights about team p
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Results](#results)
 - [Future Work](#future-work)
-- [License](#license)
 
 ## Introduction
 The Premier League is one of the most popular football leagues globally. This project explores historical match data to:
